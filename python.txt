@@ -8,3 +8,13 @@ ms.remove(2)
 print(ms)
 ms.discard(5)
 print(ms)
+
+program2
+sub cc()
+set rg=range("b2:d15")
+for each cell in rg
+if cell.value <50 then
+cell.interior.color=rbg(255,0,0)
+else
+cell.interior.color=x1none
+end ifnext cellend sub.
