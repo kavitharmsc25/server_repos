@@ -1,4 +1,5 @@
 basic python code:
+
 ms={1,2,3}
 ms add(4)
 print(ms)
@@ -9,7 +10,8 @@ print(ms)
 ms.discard(5)
 print(ms)
 
-program2
+program2:
+
 sub cc()
 set rg=range("b2:d15")
 for each cell in rg
