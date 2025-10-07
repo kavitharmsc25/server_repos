@@ -2,3 +2,11 @@ import pandas as pd
 df=pd.read_csv('d:/npm/sales.csv')
 selected_columns=df['item_mrp','item_outlet_sales']
 print(selected_columns)
+
+program 2
+import numpy as np
+import pandas as pd
+data=pd.read_csv('d:/npm/sales.csv')
+low_fat_data=data[data['item_fat_content']=='low fat']
+low_fat_array=low_fat_data to_numpy()
+print(low_fat_array)
