@@ -1,4 +1,4 @@
 import pandas as pd
 df=pd.read_csv('d:/npm/sales.csv')
-selected_columns=df[['item_mrp','item_outlet_sales']
+selected_columns=df['item_mrp','item_outlet_sales']
 print(selected_columns)
