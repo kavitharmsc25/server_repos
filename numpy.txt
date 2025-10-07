@@ -9,3 +9,11 @@ icai=np.array([2,4,6,8,10,12])
 print(icai)
 sirc=np.reshape(icai,(3,2))
 print(sirc)
+
+program 3
+program2
+dim n as integer
+for n=2 to 3
+cells (n,2).value=strreverse(cells(n,1).value)
+next n
+end sub
