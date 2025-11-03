@@ -1,7 +1,4 @@
 python introduction :
 python is human readable language.
-<<<<<<< HEAD
 python has many packages.
-=======
-python has many package.
->>>>>>> ada780616d3f653423b704c2a4643b0c919c7dfc
+
