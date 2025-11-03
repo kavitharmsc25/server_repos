@@ -1,2 +1,2 @@
 python introduction :
-python is useful to intract with human.
+python is human readable language
