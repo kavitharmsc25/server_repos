@@ -1,1 +1,2 @@
 python introduction :
+python is useful to intract with human.
