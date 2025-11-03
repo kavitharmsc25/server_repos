@@ -1,2 +1,3 @@
 python introduction :
-python is human readable language
+python is human readable language.
+python has many package.
