@@ -2,3 +2,10 @@ import numpy as np
 list1=[1,2,3,4,5]
 array_from_list=np.array(list1)
 print(array_from_list)
+
+program2
+import numpy as np
+icai=np.array([2,4,6,8,10,12])
+print(icai)
+sirc=np.reshape(icai,(3,2))
+print(sirc)
