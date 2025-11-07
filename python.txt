@@ -1,0 +1,10 @@
+basic python code:
+ms={1,2,3}
+ms add(4)
+print(ms)
+ms.update({5,6})
+print(ms)
+ms.remove(2)
+print(ms)
+ms.discard(5)
+print(ms)
